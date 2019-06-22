@@ -2,9 +2,6 @@
 //  AppDelegate.swift
 //  techTest
 //
-//  Created by David Stothers on 25/05/2019.
-//  Copyright © 2019 Stotherd. All rights reserved.
-//
 
 import UIKit
 
@@ -43,4 +40,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
 }
-
